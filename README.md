@@ -15,8 +15,11 @@
 ![This is an image](Vacation_Search/WeatherPy_vacation_map.png)
 - WeatherPy Vacation Map
  
+ 
 ![This is an image](Vacation_Itinerary/WeatherPy_travel_map.PNG)
 - WeatherPy Travel Map
  
+ 
 ![This is an image](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 - WeatherPy Vacation Map Markers
+
