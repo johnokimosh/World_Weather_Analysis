@@ -7,16 +7,16 @@
 - adding the weather description to the weather data
 - use input statements to filter the data for their weather preferences
 - identify potential travel destinations and nearby hotels
--  create a travel itinerary
+- create a travel itinerary
 - using the Google Maps Directions API, create a travel route between the four cities as well as a marker layer map
 
 ## Results
 
 ![This is an image](Vacation_Search/WeatherPy_vacation_map.png)
-- Copy
-- 
+- WeatherPy Vacation Map
+ 
 ![This is an image](Vacation_Itinerary/WeatherPy_travel_map.PNG)
-- Copy
-- 
+- WeatherPy Travel Map
+ 
 ![This is an image](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
-- Copy
+- WeatherPy Vacation Map Markers
