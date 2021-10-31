@@ -12,12 +12,11 @@
 
 ## Results
 
-- GRAPHIC
+![This is an image](Vacation_Search/WeatherPy_vacation_map.png)
 - Copy
-- GRAPHIC
+- 
+![This is an image](Vacation_Itinerary/WeatherPy_travel_map.PNG)
 - Copy
-- GRAPHIC
-
-- Copy
-- GRAPHIC
+- 
+![This is an image](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 - Copy
